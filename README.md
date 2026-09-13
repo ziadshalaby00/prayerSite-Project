@@ -2,6 +2,9 @@
 
 A clean, responsive frontend web application that displays **Islamic prayer times** based on the user's geographical location, along with a daily Quranic verse.
 
+<img width="922" height="800" alt="prayersite-netlify-app" src="https://github.com/user-attachments/assets/3ab5a600-0cee-4e22-b18a-fc95b570aaf8" />
+
+
 ## Features
 - Auto-detects user location to fetch accurate prayer times
 - Live countdown to the next prayer
