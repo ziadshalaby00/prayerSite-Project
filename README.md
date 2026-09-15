@@ -24,12 +24,5 @@ A clean, responsive frontend web application that displays **Islamic prayer time
 - Prayer Times API (geolocation-based)
 - Quran API (random verse)
 
----
-
-## 📄 License
-
-Developed entirely by [Ziad Shalaby](https://github.com/ziadshalaby00).
-
-This project is licensed under the **MIT License**.
 
 ---
